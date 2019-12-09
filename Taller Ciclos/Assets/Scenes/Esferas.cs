@@ -4,6 +4,7 @@ using UnityEngine;
 
 /// <summary>
 /// Clase utilizada para crear esferas con un rango de alto y ancho aleatorio entre 3 y 12.
+/// A cada esfera le asigna un color aleatorio entre(white, red, green, gray, blue, yellow, cyan)
 /// </summary>
 public class Esferas : MonoBehaviour {
     public bool casillaCheckBox;
